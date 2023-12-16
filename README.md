@@ -11,7 +11,7 @@ O SnowOS é um projeto pessoal com o objetivo principal de explorar e aprender o
 
 - **Interrupções e Exceções:** Implementação de tratamento de interrupções e exceções do sistema.
 
-- **Assembly x86:** Uso extensivo de Assembly x86 para interagir diretamente com o hardware.
+- **Assembly x86:** Utilização extensiva de Assembly x86 para interação direta com o hardware, aprofundando o entendimento sobre as camadas do sistema operacional, incluindo o conceito de anéis (protection rings) e os modos real e protegido.
   
 
 ## Referências
